@@ -1,0 +1,3 @@
+bgd\edu\ua\configuration\ApplicationConfig.class
+controllers\TestController.class
+dto\UserDto.class
